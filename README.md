@@ -1,5 +1,5 @@
 # Algebra-AR-Online-Class-Helper
-An augmented reality based tool to get more information about algebraic equations.
+An augmented reality based tool to get more information about algebraic equations. [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6815539787986935808/). [YouTube Video](https://www.youtube.com/watch?v=dKWXDPF0pgc&ab_channel=DiegoAI).
 
 ## Demo
 ![](/ezgif.com-video-to-gif.gif)
